@@ -1,4 +1,3 @@
 # ATM-Simulator-java
 
-To run this program
-make
+Writing my ATM Simulator in Java
